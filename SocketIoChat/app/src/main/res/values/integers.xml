@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="custom_login_id">104</integer>
+    <integer name="custom_send_id">105</integer>
+</resources>
